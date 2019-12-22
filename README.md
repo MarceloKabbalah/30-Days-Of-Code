@@ -10,6 +10,7 @@ Here are the solutions to all the HackerRank challenge questions For this series
 
 - **Day00**: [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day00) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day01**: [Question](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day01) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+**Day02**: [Question](https://www.hackerrank.com/challenges/30-operators/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day02) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day03**: [Question](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day03) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
