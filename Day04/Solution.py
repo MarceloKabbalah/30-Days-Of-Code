@@ -1,3 +1,6 @@
+#!/bin/python
+# compatible with python3
+
 class Person:
     def __init__(self,initialAge):
         # Add some more code to run some checks on initialAge

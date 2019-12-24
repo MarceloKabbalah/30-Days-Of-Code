@@ -13,4 +13,5 @@ Here are the solutions to all the HackerRank challenge questions For this series
 **Day02**: [Question](https://www.hackerrank.com/challenges/30-operators/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day02) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - **Day03**: [Question](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day03) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day04**: [Question](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day04) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day05**: [Question](https://www.hackerrank.com/challenges/30-loops/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day05) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

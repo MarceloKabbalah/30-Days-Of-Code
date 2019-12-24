@@ -1,3 +1,6 @@
+#!/bin/python
+# compatible with python3
+
 mealCost = float(input())
 tip = int(input())
 tax = int(input())
