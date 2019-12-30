@@ -15,3 +15,7 @@ Here are the solutions to all the HackerRank challenge questions For this series
 **Day04**: [Question](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day04) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day05**: [Question](https://www.hackerrank.com/challenges/30-loops/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day05) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - **Day06**: [Question](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day06) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day07**: [Question](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day07) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day08**: [Question](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day08) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day09**: [Question](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day09) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
