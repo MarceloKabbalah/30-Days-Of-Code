@@ -1,3 +1,6 @@
+#!/bin/python
+# compatible with python3
+
 class Student(Person):
     def __init__(self, fName, lName, sId, scores):
         super().__init__(fName, lName, sId)

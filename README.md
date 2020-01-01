@@ -20,3 +20,5 @@ Here are the solutions to all the HackerRank challenge questions For this series
 - **Day09**: [Question](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day09) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day10**: [Question](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day10) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day11**: [Question](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day11) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day12**: [Question](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day12) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day13**: [Question](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day13) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
