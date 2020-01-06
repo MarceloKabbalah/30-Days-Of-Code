@@ -26,4 +26,5 @@ Here are the solutions to all the HackerRank challenge questions For this series
 - **Day15**: [Question](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day15) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day16**: [Question](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day16) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day17**: [Question](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day17) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day18**: [Question](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day18) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
