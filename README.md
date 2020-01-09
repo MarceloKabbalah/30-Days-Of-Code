@@ -29,5 +29,5 @@ Here are the solutions to all the HackerRank challenge questions For this series
 - **Day18**: [Question](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day18) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day19**: [Question](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day19) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day20**: [Question](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day20) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- **Day18**: [Question](https://www.hackerrank.com/challenges/30-generics/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day21) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day21**: [Question](https://www.hackerrank.com/challenges/30-generics/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day21) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
