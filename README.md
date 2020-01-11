@@ -31,4 +31,5 @@ Here are the solutions to all the HackerRank challenge questions For this series
 **Day20**: [Question](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day20) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - **Day21**: [Question](https://www.hackerrank.com/challenges/30-generics/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day21) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day22**: [Question](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day22) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day23**: [Question](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day23) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
