@@ -32,4 +32,6 @@ Here are the solutions to all the HackerRank challenge questions For this series
 - **Day21**: [Question](https://www.hackerrank.com/challenges/30-generics/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day21) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day22**: [Question](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day22) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day23**: [Question](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day23) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day24**: [Question](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day25**: [Question](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day22) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
