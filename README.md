@@ -33,5 +33,7 @@ Here are the solutions to all the HackerRank challenge questions For this series
 **Day22**: [Question](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day22) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day23**: [Question](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day23) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - **Day24**: [Question](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Day25**: [Question](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day22) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+**Day25**: [Question](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day25) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day26**: [Question](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day26) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day27**: [Question](https://www.hackerrank.com/challenges/30-testing/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day27) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day28**: [Question](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day28) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
