@@ -1,5 +1,12 @@
-# 30-Days-Of-Code
-![open issues](https://img.shields.io/github/issues/MarceloKabbalah/30-Days-Of-Code?color=%2319a249) ![open PR](https://img.shields.io/github/issues-pr-closed/MarceloKabbalah/30-days-of-code?color=%23f25f56) ![license](https://img.shields.io/github/license/MarceloKabbalah/30-days-of-code) ![forks](https://img.shields.io/github/forks/MarceloKabbalah/30-days-of-code?style=social)
+## **30-Days-Of-Code**
+![GitHub](https://img.shields.io/github/license/MarceloKabbalah/30-Days-Of-Code?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/MarceloKabbalah/30-Days-Of-Code)
+![GitHub issues](https://img.shields.io/github/issues/MarceloKabbalah/30-Days-Of-Code)
+[![Code Style Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black/)
+
+![GitHub watchers](https://img.shields.io/github/watchers/MarceloKabbalah/30-Days-Of-Code?style=social)
+![GitHub stars](https://img.shields.io/github/stars/MarceloKabbalah/30-Days-Of-Code?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MarceloKabbalah/30-Days-Of-Code?style=social)
 
 A 30-day video tutorial series for people with no programming experience and want to learn how to code.
 
@@ -37,3 +44,4 @@ Here are the solutions to all the HackerRank challenge questions For this series
 **Day26**: [Question](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day26) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - **Day27**: [Question](https://www.hackerrank.com/challenges/30-testing/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day27) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day28**: [Question](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day28) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day28**: [Question](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solutions](https://github.com/MarceloKabbalah/30-Days-Of-Code/tree/master/Day29) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
